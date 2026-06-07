@@ -1,1 +1,3 @@
-HHello good morning this is line 1
+<<<<<<< HEAD
+Hello good morning this is line 1
+
